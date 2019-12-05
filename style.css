@@ -1,0 +1,22 @@
+body {
+  line-height: 2;
+  background-image: url(https://static.vecteezy.com/system/resources/previews/000/538/529/non_2x/abstract-technology-arrow-icon-and-computer-code-programming-coding-hacker-concept-background-vector.jpg);
+
+}
+.quest {
+  font-size: 2rem;
+   font-family: 'Alata', sans-serif;
+}
+
+h1 {
+  font-family: 'Pacifico', cursive;
+  text-align: center;
+  text-decoration: underline;
+  background: rgb(228, 209, 184);
+}
+
+ul li {
+  font-style: italic;
+  font-family: 'Inconsolata', monospace;
+  color: red;
+}
